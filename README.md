@@ -14,4 +14,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 </p>
  
- <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+ <!--<h3 align="center">Some of the repositories!</h3>-->
