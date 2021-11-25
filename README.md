@@ -3,6 +3,7 @@
 * My primary coding language: Python
 * Passionate for learning & exploring new Tech.
 * Currently working as a Software Engineer in Cognizant
+* [LinkedIn](https://www.linkedin.com/in/ramkumar-haribaskar/).
 
 ### My Tech Toolbox 🧰 
 
