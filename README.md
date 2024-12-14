@@ -2,7 +2,7 @@
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramkumar-haribaskar/)
 
-[<img height="30" src="https://img.shields.io/badge/portfolio-green.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Rammechh/Portfolio)
+[<img height="30" src="https://img.shields.io/badge/portfolio-green.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://rammechh.github.io/Portfolio/)
 
 * My primary coding language: Python
 * Passionate for learning & exploring new Tech.
