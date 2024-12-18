@@ -6,7 +6,7 @@
 
 * My primary coding language: Python
 * Passionate for learning & exploring new Tech.
-* Currently working as a Software Engineer in Cognizant
+* Currently working as a Software Engineer in Accenture
 
 ### My Tech Toolbox 🧰 
 
